@@ -20,6 +20,11 @@ A collection of my solutions to programming challenges from [Beecrowd](https://w
 | 1005 | Average 1 | C |
 | 1006 | Average 2 | C |
 | 1007 | Difference | C |
+| 1008 | Salary | C |
+| 1009 | Salary with Bonus | C |
+| 1010 | Simple Calculate | C |
+| 1011 | Sphere | C |
+| 1012 | Area | C |
 
 ## 💻 Languages Used
 
