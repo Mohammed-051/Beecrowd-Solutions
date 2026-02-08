@@ -25,10 +25,16 @@ A collection of my solutions to programming challenges from [Beecrowd](https://w
 | 1010 | Simple Calculate | C |
 | 1011 | Sphere | C |
 | 1012 | Area | C |
+| 1013 | The Greatest | C |
+| 1014 | Consumption | C |
+| 1018 | Banknotes | C++ |
+| 1019 | Time Conversion | C |
+| 1020 | Age in Days | C++ |
 
 ## 💻 Languages Used
 
 - C
+- C++
 
 ## 📝 About Beecrowd
 
