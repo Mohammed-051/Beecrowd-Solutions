@@ -30,6 +30,10 @@ A collection of my solutions to programming challenges from [Beecrowd](https://w
 | 1018 | Banknotes | C++ |
 | 1019 | Time Conversion | C |
 | 1020 | Age in Days | C++ |
+| 1028 | Collect | C++ |
+| 1037 | Interval | C |
+| 1038 | Snack | C |
+| 1040 | Average 3 | C, C++ |
 
 ## 💻 Languages Used
 
