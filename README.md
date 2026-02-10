@@ -34,6 +34,11 @@ A collection of my solutions to programming challenges from [Beecrowd](https://w
 | 1037 | Interval | C |
 | 1038 | Snack | C |
 | 1040 | Average 3 | C, C++ |
+| 1043 | Triangle | C |
+| 1044 | Multiples | C |
+| 1045 | Triangle Types | C |
+| 1048 | Salary Increase | C |
+| 1050 | DDD | C |
 
 ## 💻 Languages Used
 
