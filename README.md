@@ -39,6 +39,10 @@ A collection of my solutions to programming challenges from [Beecrowd](https://w
 | 1045 | Triangle Types | C |
 | 1048 | Salary Increase | C |
 | 1050 | DDD | C |
+| 1052 | Month | C |
+| 1061 | Event Time | C, C++ |
+| 1067 | Odd Numbers | C |
+| 1071 | Sum of Consecutive Odd Numbers | C |
 
 ## 💻 Languages Used
 
