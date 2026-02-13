@@ -43,6 +43,10 @@ A collection of my solutions to programming challenges from [Beecrowd](https://w
 | 1061 | Event Time | C, C++ |
 | 1067 | Odd Numbers | C |
 | 1071 | Sum of Consecutive Odd Numbers | C |
+| 1074 | Even or Odd | C |
+| 1080 | Highest and Position | C++ |
+| 1089 | Musical Loop | C |
+| 1094 | Experiments | C, C++ |
 
 ## 💻 Languages Used
 
