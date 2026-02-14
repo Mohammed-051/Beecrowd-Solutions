@@ -52,6 +52,10 @@ A collection of my solutions to programming challenges from [Beecrowd](https://w
 | 1114 | Fixed Password | C |
 | 1116 | Dividing X by Y | C |
 | 1120 | Contract Revision | C++ |
+| 1133 | Rest of Division | C |
+| 1140 | Flowers Flourish | C++ |
+| 1144 | Logical Sequence | C++ |
+| 1145 | Fibonacci Recurrence | C, C++ |
 
 ## 💻 Languages Used
 
