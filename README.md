@@ -47,6 +47,11 @@ A collection of my solutions to programming challenges from [Beecrowd](https://w
 | 1080 | Highest and Position | C++ |
 | 1089 | Musical Loop | C |
 | 1094 | Experiments | C, C++ |
+| 1098 | Height Sequence | C++ |
+| 1101 | Sequence of Numbers and Sum | C++ |
+| 1114 | Fixed Password | C |
+| 1116 | Dividing X by Y | C |
+| 1120 | Contract Revision | C++ |
 
 ## 💻 Languages Used
 
