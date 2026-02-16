@@ -56,6 +56,15 @@ A collection of my solutions to programming challenges from [Beecrowd](https://w
 | 1140 | Flowers Flourish | C++ |
 | 1144 | Logical Sequence | C++ |
 | 1145 | Fibonacci Recurrence | C, C++ |
+| 1146 | Growing Sequences | C, C++ |
+| 1150 | Exceeding Z | C |
+| 1151 | Easy Fibonacci | C |
+| 1157 | Divisors I | C++ |
+| 1160 | Population Growth | C++ |
+| 1165 | Prime Number | C++ |
+| 1168 | LED | C++ |
+| 1171 | Frequency of Numbers | C++ |
+| 1173 | Array Fill I | C++ |
 
 ## 💻 Languages Used
 
